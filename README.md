@@ -21,7 +21,7 @@ The custom Chaste classes are defined in the following files:
 
 * Instructions on how to create your own User Project from a 'template' project can also be found [here](https://chaste.cs.ox.ac.uk/trac/wiki/ChasteGuides/UserProjects). Alternatively, if you're using Chaste via Docker, you can run the provided script `new_project.sh` (in the `scripts` directory) and pass the name that you want to call your project e.g. `new_project.sh my_chaste_proj`.
 
-* ⚠️ When you create a new user proejct, make sure you run the [setup_project.py](https://github.com/Chaste/template_project/blob/main/setup_project.py) script to ensure it relies on the correct Chaste libraries.
+* ⚠️ When you create a new user project, make sure you run the [setup_project.py](https://github.com/Chaste/template_project/blob/main/setup_project.py) script to ensure it relies on the correct Chaste libraries.
 
 * Once you have created the repository on GitHub (with the same name) and committed some changes, use the following commands to push your project to GitHub:
   ```
