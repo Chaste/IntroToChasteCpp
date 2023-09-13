@@ -57,7 +57,7 @@ The custom Chaste classes are defined in the following files:
 
 ### 4. Make a custom class
 
-- Create a cusom class. This might be a division rule, force, or simulation modifier similar to the existing custom classes, or, it could be something different such as a new cell writer.
+- Create a custom class. This might be a division rule, force, or simulation modifier similar to the existing custom classes, or, it could be something different such as a new cell writer.
 
 ### 5. Write a node based simulation with a custom class
 
